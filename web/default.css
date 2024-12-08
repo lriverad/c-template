@@ -1,0 +1,19 @@
+html,
+body {
+    background-color: #292C33;
+    color: #e7e7ff;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+canvas {
+    height: 100%;
+    margin: 0;
+    display: block;
+}
